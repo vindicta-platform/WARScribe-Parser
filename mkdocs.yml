@@ -1,0 +1,19 @@
+site_name: WARScribe Parser
+site_description: High-level parsing library for WARScribe notation
+site_url: https://vindicta-platform.github.io/WARScribe-Parser/
+
+repo_name: vindicta-platform/WARScribe-Parser
+repo_url: https://github.com/vindicta-platform/WARScribe-Parser
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: yellow
+      accent: orange
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Contributing: contributing.md
+plugins:
+  - search
